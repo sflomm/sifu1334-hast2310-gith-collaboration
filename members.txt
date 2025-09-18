@@ -1,3 +1,7 @@
 Användare på GitHub: sflomm
 Namn: Simon Funke
 Epost: simon.funke.1334@student.uu.se
+
+Användare på GitHub: stromberghannes-spec
+Namn: Hannes Strömberg
+Epost: hannes.stromberg.2310@student.uu.se
